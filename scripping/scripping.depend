@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1552605229 source:c:\users\stephan\documents\github\tarea-1\scripping\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
