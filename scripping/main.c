@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+/**
+100/100
+**/
 
 int buscar(char info[], char tag[], int j);
 int SubStr(char info[], char valor[], int j);
