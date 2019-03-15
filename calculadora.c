@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+/**
+100/100
+**/
 int main()
 {
     int   x;
